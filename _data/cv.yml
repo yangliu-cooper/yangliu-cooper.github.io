@@ -1,0 +1,41 @@
+cv:
+  name: Yang Liu
+  label: Undergraduate Student
+  email: your_email@example.com # TODO: 改成你的邮箱
+  location: Dalian, China
+  image: ""
+  summary: Undergraduate student at Dalian University of Technology.
+
+  social_networks:
+    - network: GitHub
+      username: yangliu-cooper
+
+  sections:
+    Education:
+      - institution: Dalian University of Technology
+        location: Dalian, China
+        url: https://www.dlut.edu.cn/
+        area: Your Major # TODO
+        studyType: B.E.
+        startDate: "2023"
+        endDate: Present
+        courses: []
+
+    # 按需取消注释并填写以下部分:
+    # Experience:
+    #   - company: Lab / Company Name
+    #     position: Research Intern
+    #     location: City, Country
+    #     startDate: "2025"
+    #     endDate: Present
+    #     highlights:
+    #       - What you did
+
+    # Awards:
+    #   - title: Scholarship / Competition Award
+    #     date: "2024"
+    #     awarder: Organization
+
+    # Skills:
+    #   - name: Programming
+    #     keywords: [Python, C++, MATLAB]

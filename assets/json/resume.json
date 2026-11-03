@@ -1,0 +1,34 @@
+{
+  "basics": {
+    "name": "Yang Liu",
+    "label": "Undergraduate Student",
+    "email": "your_email@example.com",
+    "location": {
+      "city": "Dalian",
+      "countryCode": "CN"
+    },
+    "summary": "Undergraduate student at Dalian University of Technology.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "yangliu-cooper",
+        "url": "https://github.com/yangliu-cooper"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Dalian University of Technology",
+      "url": "https://www.dlut.edu.cn/",
+      "area": "Your Major",
+      "studyType": "B.E.",
+      "startDate": "2023",
+      "endDate": "Present"
+    }
+  ],
+  "work": [],
+  "publications": [],
+  "projects": [],
+  "awards": [],
+  "skills": []
+}
