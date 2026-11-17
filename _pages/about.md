@@ -22,7 +22,9 @@ latest_posts:
 ---
 
 <style>
-.post-header { margin-bottom: 1.75rem; }
+.post > .post-header { display: none; }
+.post article { text-align: left; }
+.intro-name { display: flow-root; text-align: left; margin: 0 0 1.25rem; font-size: 2.65rem; line-height: 1.2; }
 .post-title { font-size: 2.65rem; line-height: 1.2; }
 .post article { font-size: 1rem; line-height: 1.7; }
 .profile .more-info { font-family: inherit; text-align: center; margin-top: 1.25rem; }
@@ -52,14 +54,16 @@ latest_posts:
   #navbar .navbar-menu-list { margin-left: auto; }
 }
 @media (max-width: 575px) {
-  .post-title { font-size: 2.2rem; }
+  .post-title, .intro-name { font-size: 2.2rem; }
   .profile.float-left { float: none; width: min(100%, 270px); margin: 0 auto 2rem; }
   .home-news th { width: 6rem; padding-right: .75rem; }
   .home-sections { padding-top: .25rem; }
 }
 </style>
 
-I am **Yang LIU (刘洋)**, an engineer at **Huawei**, where I work on industrial vision measurement.
+<h1 class="intro-name"><span class="font-weight-bold">Yang</span> LIU</h1>
+
+I am an R&D Engineer at Huawei building industrial vision system
 
 I received my master's degree in Mechanical & Electronic Engineering from [Dalian University of Technology](https://www.dlut.edu.cn/) in June 2025, under the supervision of Prof. Wei Liu. I completed my undergraduate studies at the same university in June 2022.
 
@@ -105,3 +109,4 @@ See my [CV](/cv/) for education, research experience, and awards.
 </div>
 <p style="margin-top: 1rem;"><a href="/publications/">All publications →</a></p>
 </div>
+
