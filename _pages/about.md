@@ -4,14 +4,15 @@ title: About
 permalink: /
 subtitle:
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Engineer at Huawei</p>
-    <p>Industrial Vision Measurement</p>
-    <p><a href="mailto:phycooper@qq.com">phycooper@qq.com</a></p>
-    <p class="profile-links"><a href="mailto:phycooper@qq.com" aria-label="Email Yang LIU"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a> <a href="https://github.com/yangliu-cooper" aria-label="Yang LIU on GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a></p>
+    <nav class="profile-links" aria-label="Academic and social profiles">
+      <p><a href="https://github.com/yangliu-cooper">GitHub</a><span aria-hidden="true"> | </span><a href="https://scholar.google.com/citations?user=_sj2HKIAAAAJ&amp;hl=en">Google Scholar</a></p>
+      <p><a href="https://orcid.org/0009-0005-5178-6650">ORCID</a><span aria-hidden="true"> | </span><a href="https://www.linkedin.com/in/洋-刘-926a4a288/">LinkedIn</a></p>
+      <p class="profile-x"><a href="https://x.com/youngcooliu" aria-label="Follow youngcooliu on X"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i> Follow @youngcooliu</a></p>
+    </nav>
 selected_papers: false
 social: false
 announcements:
@@ -27,7 +28,12 @@ latest_posts:
 .profile .more-info { font-family: inherit; text-align: center; margin-top: 1.25rem; }
 .profile .more-info p { display: block; margin: .25rem 0; overflow-wrap: anywhere; }
 .profile img { aspect-ratio: 1; object-fit: cover; border-radius: 50%; }
-.profile .profile-links { display: flex; justify-content: center; gap: 1.25rem; margin-top: .75rem; font-size: 1.8rem; }
+.profile .profile-links { margin-top: .75rem; font-size: 1rem; line-height: 1.9; }
+.profile .profile-links a { display: inline-block; }
+.profile .profile-links span { padding: 0 .35rem; }
+.profile .profile-x { padding-top: .5rem; }
+.profile .profile-x a { border: 1px solid var(--global-divider-color); border-radius: 999px; padding: .15rem .85rem; font-size: .9rem; }
+.profile .profile-x i { margin-right: .3rem; }
 .background-details { margin: 1.25rem 0 2rem; }
 .background-details summary { color: var(--global-theme-color); cursor: pointer; width: fit-content; }
 .background-details[open] summary { margin-bottom: 1rem; }
@@ -42,12 +48,12 @@ latest_posts:
 .home-paper p { margin: .25rem 0; }
 .home-paper .paper-link { display: inline-block; margin-top: .4rem; padding: .05rem .65rem; border: 1px solid currentColor; border-radius: 3px; font-size: .85rem; }
 @media (min-width: 576px) {
-  .profile.float-right { width: 30%; margin: 0 0 1.5rem 2.5rem; }
+  .profile.float-left { float: left; width: 30%; margin: 0 2.5rem 1.5rem 0; }
   #navbar .navbar-menu-list { margin-left: auto; }
 }
 @media (max-width: 575px) {
   .post-title { font-size: 2.2rem; }
-  .profile.float-right { float: none; width: min(100%, 270px); margin: 0 auto 2rem; }
+  .profile.float-left { float: none; width: min(100%, 270px); margin: 0 auto 2rem; }
   .home-news th { width: 6rem; padding-right: .75rem; }
   .home-sections { padding-top: .25rem; }
 }
