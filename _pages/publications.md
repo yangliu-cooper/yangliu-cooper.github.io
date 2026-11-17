@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Research in precision vision measurement and vision-guided robotics.
 nav: true
 nav_order: 2
