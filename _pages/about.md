@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Student # 例如:<a href='https://www.dlut.edu.cn/'>Dalian University of Technology</a>
+subtitle: Engineer at Huawei · Industrial Vision Measurement
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dalian, Liaoning, China</p>
+    <p>Industrial vision measurement</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,12 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- 在这里写你的个人简介(英文)。参考写法: -->
+I am Yang Liu (刘洋), an engineer at Huawei working on industrial vision measurement. My interests span precision optical metrology, 3D reconstruction, vision-guided robotics, and multi-sensor fusion.
 
-Hi! I am Yang Liu (刘洋), an undergraduate student at [Dalian University of Technology](https://www.dlut.edu.cn/), majoring in XXX.
+I received my master's degree in Mechanical & Electronic Engineering from [Dalian University of Technology](https://www.dlut.edu.cn/) in June 2025, under the supervision of Prof. Wei Liu.
 
-My research interests include XXX, XXX, and XXX. <!-- 改成你自己的研究方向 -->
+## Research experience
 
-I am currently working on XXX under the supervision of Prof. XXX. <!-- 没有可删除此行 -->
+- **Precision measurement of complex cutting tools.** Developed 2D vision measurement and shape-from-focus 3D reconstruction methods, adaptive lighting, and integrated measurement software and hardware.
+- **Vision-guided robotics.** Worked on eye-in-hand calibration, binocular vision, and deep-learning-based detection for robotic positioning and grasping of industrial cutting tools.
+- **Multi-sensor fusion.** Developed inspection and machining-quality prediction methods for carbon-fiber-reinforced polymer composites using vision, process sensing, and deep learning.
 
-Feel free to reach out if you are interested in my work or would like to collaborate!
+My work has appeared in IEEE Transactions on Instrumentation and Measurement and Chinese Journal of Aeronautics. Our paper on precise 2D and 3D hybrid measurement of drill bits has been accepted by Engineering. See my [publications](/publications/) and [CV](/cv/) for details.
+
+You can reach me at [phycooper@qq.com](mailto:phycooper@qq.com).
