@@ -14,8 +14,8 @@ Industrial vision measurement.
 
 ## Education
 
-**Graduate research in Mechanical & Electronic Engineering · Dalian University of Technology**  
-Began September 2022. Supervisor Prof. Wei Liu. Research at the State Key Laboratory of High-performance Precision Manufacturing.
+**Master's degree in Mechanical & Electronic Engineering · Dalian University of Technology**  
+September 2022 – June 2025. Supervisor Prof. Wei Liu. Research at the State Key Laboratory of High-performance Precision Manufacturing.
 
 **Bachelor's studies in Mechanical Design, Manufacturing & Automation · Dalian University of Technology**  
 September 2018 – June 2022. International Class. Grade 89.23/100, ranked third in the major. Recommended for admission to graduate school.
