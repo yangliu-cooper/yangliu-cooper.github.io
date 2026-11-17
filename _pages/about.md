@@ -27,7 +27,7 @@ latest_posts:
 
 I am Yang Liu (刘洋), an engineer at Huawei working on industrial vision measurement. My interests span precision optical metrology, 3D reconstruction, vision-guided robotics, and multi-sensor fusion.
 
-My academic background is in mechanical engineering at [Dalian University of Technology](https://www.dlut.edu.cn/), where I pursued graduate research in Mechanical & Electronic Engineering under the supervision of Prof. Wei Liu.
+I received my master's degree in Mechanical & Electronic Engineering from [Dalian University of Technology](https://www.dlut.edu.cn/) in June 2025, under the supervision of Prof. Wei Liu.
 
 ## Research experience
 
