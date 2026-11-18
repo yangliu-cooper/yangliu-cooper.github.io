@@ -29,7 +29,7 @@ latest_posts:
 .post article { font-size: 1rem; line-height: 1.7; }
 .profile .more-info { font-family: inherit; text-align: center; margin-top: 1.25rem; }
 .profile .more-info p { display: block; margin: .25rem 0; overflow-wrap: anywhere; }
-.profile img { aspect-ratio: 1; object-fit: cover; border-radius: 50%; }
+.profile img { aspect-ratio: 1; object-fit: cover; object-position: 50% 15%; border-radius: 50%; }
 .profile .profile-links { margin-top: .75rem; font-size: 1rem; line-height: 1.9; }
 .profile .profile-links a { display: inline-block; }
 .profile .profile-links span { padding: 0 .35rem; }
