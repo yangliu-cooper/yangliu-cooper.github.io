@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 profile:
   align: left
-  image: prof_pic.jpg
+  image: portrait-2026.png
   image_circular: true
   more_info: >
     <nav class="profile-links" aria-label="Academic and social profiles">
